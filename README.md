@@ -9,3 +9,4 @@
     #### python generate_barcode.py --video videos/jurassic_park_trailer.mp4 --output output/jurassic_park_trailer.json --skip 25
     
 3. Visualizing and saving the barcode
+    #### python visualize_barcode.py --avgs output/jurassic_park_trailer.json --barcode output/jurassic_park_trailer.png --barcode-width 5
