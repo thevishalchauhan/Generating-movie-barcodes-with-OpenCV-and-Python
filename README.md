@@ -10,3 +10,5 @@
     
 3. Visualizing and saving the barcode
     #### python visualize_barcode.py --avgs output/jurassic_park_trailer.json --barcode output/jurassic_park_trailer.png --barcode-width 5
+    
+Reference: PyImageSearch
