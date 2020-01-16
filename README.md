@@ -6,5 +6,6 @@
     #### python count_frames.py --video videos/jurassic_park_trailer.mp4
 
 2. Generating the movie barcode data
-
+    #### python generate_barcode.py --video videos/jurassic_park_trailer.mp4 --output output/jurassic_park_trailer.json --skip 25
+    
 3. Visualizing and saving the barcode
